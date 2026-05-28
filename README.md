@@ -44,7 +44,7 @@ Wnioski:
 
 - w zadaniu 2 Spark sam otworzył pliki i zorientował się gdzie są nagłówki kolumn oraz dobrze określił typy danych
 
-<img width="671" height="524" alt="image (38)" src="https://github.com/user-attachments/assets/0af17c9f-e25d-4d80-899f-d52ecba46440" />
+
 
 - format parquet jest binarny i kolumnowy, zapisuje skompresowane dane i przechowuje też metadane, dzięki temu Spark może odczytać tylko te dane, które są mu potrzebne
 
