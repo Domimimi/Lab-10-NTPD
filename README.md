@@ -13,11 +13,25 @@ Dominika Liszkiewicz
 Zadanie 1
 
 
+Przygotowanie pliku z danymi 
+
+
+<img width="1376" height="434" alt="lab10ntpd" src="https://github.com/user-attachments/assets/41f40afc-90d7-4c13-b518-f31a1e03500a" />
+
+
+Wyświetlenie kilku wierszy i struktury danych 
+
 <img width="671" height="524" alt="image (38)" src="https://github.com/user-attachments/assets/2c757104-ba7b-4528-aa77-951e7e4bc6d2" />
 
 
 
 Zadanie 2 
+
+Wczytanie danych do DataFrame i rejestrowanie widoku tymaczsowego
+
+
+<img width="946" height="758" alt="lab10ntpd2" src="https://github.com/user-attachments/assets/b82a3cf2-fe29-4665-a598-ff1bf83fbb02" />
+
 
 
 Wyniki zapytania
